@@ -1,7 +1,12 @@
-# Template for a ZetaChain Hardhat Project
+# ZetaChain Hackathon Project
 
 This is a simple Hardhat template that provides a starting point for developing
 smart contract applications on the ZetaChain blockchain.
+🔑 Private key: dd3af6af24b0deaae56b500f33db9597bca4cd7a0e13334aeb0a6896b9410683
+🔐 Mnemonic phrase: physical choice father divert grass bulb desert smoke split mirror give cause
+😃 EVM address: 0xDBB9b2313664C1805C21B6c0E8E5f6FBE4D4cfDA
+😃 Bitcoin address: tb1q0u9q8uz6syuvx8hhvtj92mge9azct6a83mxwa0
+😃 Bech32 address: zeta1mwumyvfkvnqcqhppkmqw3e0kl0jdfn76pl69vg
 
 ## Prerequisites
 
