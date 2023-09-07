@@ -7,7 +7,9 @@ smart contract applications on the ZetaChain blockchain.
 😃 EVM address: 0xDBB9b2313664C1805C21B6c0E8E5f6FBE4D4cfDA
 😃 Bitcoin address: tb1q0u9q8uz6syuvx8hhvtj92mge9azct6a83mxwa0
 😃 Bech32 address: zeta1mwumyvfkvnqcqhppkmqw3e0kl0jdfn76pl69vg
-
+Begining Balances:
+EVM: 0xDBB9b2313664C1805C21B6c0E8E5f6FBE4D4cfDA 
+Bitcoin: tb1q0u9q8uz6syuvx8hhvtj92mge9azct6a83mxwa0
 ## Prerequisites
 
 Before getting started, ensure that you have
